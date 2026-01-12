@@ -21,3 +21,5 @@ The first step in machine learning model implementation is problem definition. A
 Next, data preprocessing is performed to clean and prepare the data for training. This includes handling missing values, removing noise and outliers, encoding categorical variables, and normalizing or scaling numerical features. Feature selection and feature engineering are also important steps, as they help in identifying the most relevant inputs that improve model accuracy and efficiency.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/b51a0132-a0ba-47f2-9549-bc539f3f52c9)
